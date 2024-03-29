@@ -1,0 +1,20 @@
+Script started on 2024-03-16 23:07:56+03:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="171" LINES="18"]
+[?2004h]0;nekkys@FlamesOfVengeance: /mnt/c/Users/LENOVO/Documents/GitHub/FullStack-part12[01;32mnekkys@FlamesOfVengeance[00m:[01;34m/mnt/c/Users/LENOVO/Documents/GitHub/FullStack-part12[00m$ [7mdocker container run -it ubuntu bash[27mdocker container run -it ubuntu bash
+[?2004lUnable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2Kbccd10f490ab: Pulling fs layer [1B[1A[2Kbccd10f490ab: Downloading [>                                                  ]  309.6kB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [======>                                            ]  3.701MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [============>                                      ]  7.367MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [==================>                                ]  11.05MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [=========================>                         ]  15.02MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [================================>                  ]     19MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [======================================>            ]  22.65MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [==========================================>        ]  25.39MB/29.54MB[1B[1A[2Kbccd10f490ab: Downloading [=================================================> ]  29.06MB/29.54MB[1B[1A[2Kbccd10f490ab: Verifying Checksum [1B[1A[2Kbccd10f490ab: Download complete [1B[1A[2Kbccd10f490ab: Extracting [>                                                  ]  327.7kB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [===========>                                       ]  6.881MB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [=================>                                 ]  10.16MB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [=================================>                 ]  19.66MB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [===========================================>       ]  25.56MB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [=============================================>     ]  26.87MB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [=================================================> ]  29.16MB/29.54MB[1B[1A[2Kbccd10f490ab: Extracting [==================================================>]  29.54MB/29.54MB[1B[1A[2Kbccd10f490ab: Pull complete [1BDigest: sha256:77906da86b60585ce12215807090eb327e7386c8fafb5402369e421f44eff17e
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@070d3fbc23df: /root@070d3fbc23df:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@070d3fbc23df: /root@070d3fbc23df:/# ls
+[?2004l[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;36mlib[0m  [01;36mlib32[0m  [01;36mlib64[0m  [01;36mlibx32[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+[?2004h]0;root@070d3fbc23df: /root@070d3fbc23df:/# ls us     cd [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@070d3fbc23df: /usr/src/approot@070d3fbc23df:/usr/src/app# > index.js
+[?2004l[?2004h]0;root@070d3fbc23df: /usr/src/approot@070d3fbc23df:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@070d3fbc23df: /usr/src/approot@070d3fbc23df:/usr/src/app# exit
+[?2004lexit
+[?2004h]0;nekkys@FlamesOfVengeance: /mnt/c/Users/LENOVO/Documents/GitHub/FullStack-part12[01;32mnekkys@FlamesOfVengeance[00m:[01;34m/mnt/c/Users/LENOVO/Documents/GitHub/FullStack-part12[00m$ exit
+[?2004lexit
+
+Script done on 2024-03-16 23:13:48+03:00 [COMMAND_EXIT_CODE="0"]
